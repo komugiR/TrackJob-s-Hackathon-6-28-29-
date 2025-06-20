@@ -39,3 +39,19 @@ packages/
 # OS
 .DS_Store
 Thumbs.db
+
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+*.log
+.DS_Store
